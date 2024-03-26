@@ -15,8 +15,7 @@ http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 				<entry key="MERN Stack" value="4 months"/>
 				<entry key="React"  value="1 month" />
 			</map>
-		</property>
-		
+		</property>		
  	</bean>
 </beans>
 
